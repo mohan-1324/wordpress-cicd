@@ -1,4 +1,9 @@
 <?php
+
+
+#init_set("upload_max_filesize", 8M);
+
+
 /**
  * The base configuration for WordPress
  *
